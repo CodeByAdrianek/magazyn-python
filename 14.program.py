@@ -263,4 +263,5 @@ while True:
         licznik_bledow = licznik_bledow + 1
 plik = open("test.txt", "w", encoding="utf-8")
 plik.write("Sok, 7 zł, 4 sztuki")
-plik.close()        
+plik.close()
+# Testujemy wykrywanie zmian przez Git      
