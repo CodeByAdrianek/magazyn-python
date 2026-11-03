@@ -265,4 +265,5 @@ plik = open("test.txt", "w", encoding="utf-8")
 plik.write("Sok, 7 zł, 4 sztuki")
 plik.close()
 # Testujemy wykrywanie zmian przez Git
-# Uczę się komendy git diff      
+# Uczę się komendy git diff     
+# Ćwiczymy cofanie git add
