@@ -269,3 +269,4 @@ plik.close()
 # Ćwiczymy cofanie git add
 # Testujemy podgląd historii zmian
 # Pracujemy na galezi testy
+# To jest moj eksperyment z galezia
