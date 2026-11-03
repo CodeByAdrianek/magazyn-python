@@ -268,3 +268,4 @@ plik.close()
 # Uczę się komendy git diff     
 # Ćwiczymy cofanie git add
 # Testujemy podgląd historii zmian
+# Pracujemy na galezi testy
