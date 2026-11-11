@@ -17,6 +17,6 @@ Prosty program do zarządzania magazynem napisany w Pythonie.
 
 ## Technologie
 
-- Python — mój pierwszy język programowania
+- Python — mój pierwszy język programowania, w którym powstał magazyn
 - Git i GitHub
 - Poznajemy git fetch
