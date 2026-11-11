@@ -19,3 +19,4 @@ Prosty program do zarządzania magazynem napisany w Pythonie.
 
 - Python
 - Git i GitHub
+- Poznajemy git fetch
